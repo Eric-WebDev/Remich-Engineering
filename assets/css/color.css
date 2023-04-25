@@ -54,6 +54,15 @@ a {
     color: #ce9233;
 }
 
+.menu-item {
+    border-bottom: 3px solid transparent; /* set border to transparent initially */
+  }
+  
+  .menu-item .active {
+    border-bottom-color: #ce9233; /* set border color when menu item is active */
+  }
+  
+
 .banner-section .banner-slider-button-next:hover {
     background-color: #ce9233;
 }
@@ -206,6 +215,7 @@ a {
 
 .page-title .bread-crumb {
     border: 3px solid #ce9233;
+    border-radius: 12px;
 }
 
 .welcome-section-three .experience-years {
@@ -255,6 +265,7 @@ a {
 
 .category-widget .cat-list li a:hover {
     color: #ce9233;
+    border-radius: 12px;
 }
 
 .news-widget-two .post a:hover{
@@ -313,10 +324,12 @@ a {
 .category-widget-two li a:hover,
 .category-widget-two li.active a {
     background: #ce9233;
+    border-radius: 15px;
 }
 
 .consult-widget {
     background: #ce9233;
+    border-radius: 15px;
 }
 
 .consult-widget .icon {

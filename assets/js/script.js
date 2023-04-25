@@ -597,6 +597,7 @@
 		});
 
 	}
+	  
 
 	//Projects Tabs
 	if($('.project-tab').length){
@@ -713,3 +714,4 @@
 	});	
 
 })(window.jQuery);
+
