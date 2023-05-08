@@ -2175,18 +2175,18 @@ img {
 
 /* CTA section */
 
-.cta-section {
+/* .cta-section {
     position: relative;
     padding: 40px 0 15px;
-}
+} */
 
-.cta-section .wrapper-box {
+/* .cta-section .wrapper-box {
     position: relative;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-}
+} */
 
 .cta-section h3 {
     font-size: 30px;
@@ -2328,7 +2328,7 @@ img {
 
 .testimonials-section {
     position: relative;
-    margin-top: -190px;
+    margin-top: -2px;
     padding: 90px 0 5px;
 }
 
